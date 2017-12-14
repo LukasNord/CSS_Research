@@ -17,7 +17,7 @@ function startUp(){
 
 function blurFunction(){
     console.log('inside my blur function');
-  $('img').css("filter","blur(2px)");
+  $('img').css("filter","blur(8px)");
 
 }//end blur
 
