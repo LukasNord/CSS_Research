@@ -1,0 +1,10 @@
+.blurTest {
+
+  height: 600x;
+  width: 400px;
+}
+
+
+.myElement {
+	filter: blur(2px);
+}
