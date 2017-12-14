@@ -6,7 +6,7 @@ $(document).ready(startUp);
 
 function startUp(){
   //console.log('JQ');
-  $('#button').on( 'click', blurFunction);
+  $('#blurButton').on( 'click', blurFunction);
   $('#reset').on( 'click', reset);
 
   $('#hueButton').on('click', testFunc);
